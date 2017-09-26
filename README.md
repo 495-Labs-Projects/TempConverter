@@ -185,6 +185,15 @@
 
 <p>Hint: IMO it is a lot easier to deal with 'exceptional dates' with <a href="http://www.ruby-doc.org/docs/ProgrammingRuby/html/tut_exceptions.html">Ruby exceptions</a>.</p>
 
+<h1>Practice HTML - Optional</h1>
+<p>If you need a refresher on HTML basics, feel free to review the following labs from 67-250.</p>
+<ul>
+<li><a href="docs/Lab1.pdf">Lab 1</a></li>
+<li><a href="docs/Lab2.pdf">Lab 2</a></li>
+<li><a href="docs/Lab3.pdf">Lab 3</a></li>
+</ul>
+
+
 <h1>On Your Own</h1>
 
 <p>This week the "on your own" assignment is to go to <a href="http://rubymonk.com/learning/books/1">RubyMonk's free Ruby Primer</a> and complete the following exercises:</p>
