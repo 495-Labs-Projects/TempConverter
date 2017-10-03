@@ -188,9 +188,9 @@
 <h1>Part 3: Ruby Blocks</h1>
 
 <ol>
-<li><p>In this part of the lab, you will work through block problems from previous 67-272 exam. This section contains 5 problems, but you only need to complete the first 2 for full credit. However, you are encouraged to complete them all if time allows! They will be good practice for future exams and your projects.</p></li>
+<li><p>In this part of the lab, you will work through block problems from previous 67-272 exam. This section contains 4 problems, but you only need to complete the first 2 for full credit. However, you are encouraged to complete them all if time allows! They will be good practice for future exams and your projects.</p></li>
 <li><p>In each problem you will be given an expected output, and your task is to write a block that will generate this output. You can complete the problems in a separate file, and run it the same way as TempConverter.</p></li>
-<li><p>Add the following dictionaries to the top of your file, as these will be the ones you manipulate in the problems.</p></li>
+<li><p>Add the following dictionaries to the top of your file, as these will be used in the problems.</p></li>
 <div class="highlight highlight-ruby"><pre>
 cast = {bob_parr: :incredibles, helen_parr: :incredibles, lucius: :incredibles, 
         edna: :incredibles, woody: :toy_story, buzz: :toy_story, bopeep: :toy_story, 
@@ -217,6 +217,44 @@ EXPECTED OUTPUT:
   bopeep
   jessie
 </pre></div>
+
+<h2>Problem 2: </h2>
+<div class="highlight highlight-ruby"><pre>
+EXPECTED OUTPUT: 
+  [:brave, :up, :walle, :toy_story_3]
+</pre></div>
+
+<h2>Problem 3: </h2>
+<div class="highlight highlight-ruby"><pre>
+EXPECTED OUTPUT: 
+  Toy_story - 1995
+  Monsters_inc - 2001
+  Finding_nemo - 2003
+  Incredibles - 2004
+  Cars - 2006
+  Toy_story_3 - 2010
+  Brave - 2012
+</pre></div>
+
+<h2>Problem 4: </h2>
+<div class="highlight highlight-ruby"><pre>
+EXPECTED OUTPUT: 
+  Cars
+  Finding Nemo
+  Incredibles
+  Monsters Inc
+  Toy Story
+</pre></div>
+
+
+<hr>
+
+<h1>
+<span class="mega-icon mega-icon-issue-opened"></span> Stop</h1>
+
+<p>Show a TA that you have at least problems 1 and 2. Make sure the TA initials your sheet.</p>
+
+<hr>
 
 <h1>Practice HTML - Optional</h1>
 <p>If you need a refresher on HTML basics, feel free to review the following labs from 67-250.</p>
