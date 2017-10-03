@@ -185,6 +185,34 @@
 
 <p>Hint: IMO it is a lot easier to deal with 'exceptional dates' with <a href="http://www.ruby-doc.org/docs/ProgrammingRuby/html/tut_exceptions.html">Ruby exceptions</a>.</p>
 
+<h1>Part 3: Ruby Blocks</h1>
+
+<ol>
+<li><p>In this part of the lab, you will work through block problems from previous 67-272 exam. This section contains 5 problems, but you only need to complete the first 2 for full credit. However, you are encouraged to complete them all if time allows! They will be good practice for future exams and your projects.</p></li>
+<li><p>In each problem you will be given an expected output, and your task is to write a block that will generate this output. You can complete the problems in a separate file, and run it the same way as TempConverter.</p></li>
+<li><p>Add the following dictionaries to the top of your file, as these will be the ones you manipulate in the problems.</p></li>
+div class="highlight highlight-ruby"><pre>
+cast = {bob_parr: :incredibles, helen_parr: :incredibles, lucius: :incredibles, 
+        edna: :incredibles, woody: :toy_story, buzz: :toy_story, bopeep: :toy_story, 
+        andy: :toy_story, merida: :brave, marlin: :finding_nemo, dory: :finding_nemo, 
+        nemo: :finding_nemo, sulley: :monsters_inc, mike: :monsters_inc, 
+        randall: :monsters_inc, sally: :cars, mcqueen: :cars, doc: :cars, 
+        mater: :cars, jessie: :toy_story_3, big_baby: :toy_story_3, remy: :ratatouille }
+          
+toys = [:woody, :bopeep, :buzz, :jessie, :big_baby]
+
+females = [:helen_parr, :edna, :bopeep, :dory, :sally, :jessie, :merida]
+
+super_heroes = { bob_parr: "Mr. Incredible", helen_parr: "Elastigirl", lucius: "Frozone" }
+
+race_cars = [:mcqueen, :doc]
+
+year_produced = {incredibles: 2004, toy_story: 1995, brave: 2012, finding_nemo: 2003, up: 2009, walle: 2008,
+                 monsters_inc: 2001, cars: 2006, bugs_life: 1998, toy_story_3: 2010}
+</pre></div>
+
+<p>Problem 1: </p>
+
 <h1>Practice HTML - Optional</h1>
 <p>If you need a refresher on HTML basics, feel free to review the following labs from 67-250.</p>
 <ul>
@@ -192,7 +220,6 @@
 <li><a href="docs/Lab2.pdf">Lab 2</a></li>
 <li><a href="docs/Lab3.pdf">Lab 3</a></li>
 </ul>
-
 
 <h1>On Your Own</h1>
 
