@@ -252,9 +252,8 @@ EXPECTED OUTPUT:
 <h1>
 <span class="mega-icon mega-icon-issue-opened"></span> Stop</h1>
 
-<p>Show a TA that you have at least problems 1 and 2. Make sure the TA initials your sheet.</p>
+<p>Show a TA that you have at least problems 1 and 2 completed. Make sure the TA initials your sheet.</p>
 
-<hr>
 
 <h1>Practice HTML - Optional</h1>
 <p>If you need a refresher on HTML basics, feel free to review the following labs from 67-250.</p>
