@@ -191,7 +191,7 @@
 <li><p>In this part of the lab, you will work through block problems from previous 67-272 exam. This section contains 5 problems, but you only need to complete the first 2 for full credit. However, you are encouraged to complete them all if time allows! They will be good practice for future exams and your projects.</p></li>
 <li><p>In each problem you will be given an expected output, and your task is to write a block that will generate this output. You can complete the problems in a separate file, and run it the same way as TempConverter.</p></li>
 <li><p>Add the following dictionaries to the top of your file, as these will be the ones you manipulate in the problems.</p></li>
-div class="highlight highlight-ruby"><pre>
+<div class="highlight highlight-ruby"><pre>
 cast = {bob_parr: :incredibles, helen_parr: :incredibles, lucius: :incredibles, 
         edna: :incredibles, woody: :toy_story, buzz: :toy_story, bopeep: :toy_story, 
         andy: :toy_story, merida: :brave, marlin: :finding_nemo, dory: :finding_nemo, 
