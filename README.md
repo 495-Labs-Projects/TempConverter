@@ -211,7 +211,12 @@ year_produced = {incredibles: 2004, toy_story: 1995, brave: 2012, finding_nemo: 
                  monsters_inc: 2001, cars: 2006, bugs_life: 1998, toy_story_3: 2010}
 </pre></div>
 
-<p>Problem 1: </p>
+<h2>Problem 1: </h2>
+<div class="highlight highlight-ruby"><pre>
+EXPECTED OUTPUT: 
+  bopeep
+  jessie
+</pre></div>
 
 <h1>Practice HTML - Optional</h1>
 <p>If you need a refresher on HTML basics, feel free to review the following labs from 67-250.</p>
